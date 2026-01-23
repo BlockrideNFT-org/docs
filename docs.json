@@ -76,6 +76,10 @@
   "background": {
     "color": {
       "dark": "#140d01"
-    }
+    },
+        "decoration": "grid"
+  },
+  "appearance": {
+    "default": "light"
   }
 }
