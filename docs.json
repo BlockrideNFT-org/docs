@@ -1,28 +1,19 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Blockride Documentationn",
+  "name": "Blockride Documentation",
   "colors": {
     "primary": "#fe991e",
     "light": "#fdd098",
-    "dark": "#b76500"
+    "dark": "#fe991e"
   },
   "favicon": "/favicon.svg",
   "navigation": {
     "global": {
       "anchors": [
         {
-          "anchor": "Twitter (X)",
-          "icon": "x",
-          "color": {
-            "light": "#fe991e",
-            "dark": "#fe991e"
-          },
-          "href": "https://x.com/blockride.xyz"
-        },
-        {
           "anchor": "Website",
-          "icon": "newspaper",
+          "icon": "globe",
           "color": {
             "light": "#fe991e",
             "dark": "#fe991e"
