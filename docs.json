@@ -27,6 +27,12 @@
         "tab": "Documentation",
         "groups": [
           {
+            "group": "Background",
+            "pages": [
+              "documentation/background/traditional-vehicle-financing"
+            ]
+          },
+          {
             "group": "Blockride",
             "pages": [
               "index"
