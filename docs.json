@@ -42,7 +42,8 @@
           {
             "group": "Get Started",
             "pages": [
-              "documentation/get-started/how-to"
+              "documentation/get-started/fleet-operator",
+              "documentation/get-started/investor"
             ]
           }
         ]
@@ -93,6 +94,6 @@
         "decoration": "grid"
   },
   "appearance": {
-    "default": "light"
+    "default": "dark"
   }
 }
