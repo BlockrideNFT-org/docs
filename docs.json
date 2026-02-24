@@ -33,9 +33,10 @@
             ]
           },
           {
-            "group": "Background",
+            "group": "Overview",
             "pages": [
-              "documentation/background/traditional-vehicle-financing"
+              "documentation/background/problem",
+              "documentation/background/solution"
             ]
           }
         ]
