@@ -35,8 +35,14 @@
           {
             "group": "Overview",
             "pages": [
-              "documentation/background/problem",
-              "documentation/background/solution"
+              "documentation/overview/problem",
+              "documentation/overview/solution"
+            ]
+          },
+          {
+            "group": "Get Started",
+            "pages": [
+              "documentation/get-started/how-to"
             ]
           }
         ]
