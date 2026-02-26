@@ -45,6 +45,19 @@
               "documentation/get-started/fleet-operator",
               "documentation/get-started/investor"
             ]
+          },
+          {
+            "group": "Protocol",
+            "pages": [
+              "documentation/protocol/overview"
+            ]
+          },
+          {
+            "group": "Resources",
+            "pages": [
+              "documentation/resources/faqs",
+              "documentation/resources/risks"
+            ]
           }
         ]
       }
